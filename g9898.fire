@@ -47,8 +47,8 @@
     },
     "_is3DNode": true,
     "groupIndex": 0,
-    "autoReleaseAssets": true,
-    "_id": "d59f9dc0-d0c9-443a-99f9-ab14a45c09d5"
+    "autoReleaseAssets": false,
+    "_id": "ac6a5ab0-78fe-4d35-8047-9d56a00a5b2f"
   },
   {
     "__type__": "cc.Node",
@@ -156,7 +156,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 350.74028853269766
+      "z": 624.4043161285803
     },
     "_scale": {
       "__type__": "cc.Vec3",
@@ -14132,6 +14132,7 @@
     "SFXCheckBox": {
       "__id__": 316
     },
+    "btnBetHistory": null,
     "_id": "cfobG8uVtJ55NOjG1ncaJR"
   },
   {
@@ -20180,6 +20181,7 @@
     "isMiniGame": false,
     "initialized": false,
     "jpList": "GRAND-MAJOR",
+    "pageIndex": null,
     "_id": "c0nJeekB9EALAemc6D7TVD"
   },
   {
@@ -21580,6 +21582,8 @@
     "betSFX": {
       "__uuid__": "71ae1897-84d2-49bb-8c3e-eff814ae7a12"
     },
+    "decreaseSFX": null,
+    "increaseSFX": null,
     "betDenomLabel": {
       "__id__": 483
     },
@@ -24569,6 +24573,7 @@
     "waitingScene": {
       "__id__": 414
     },
+    "demoGroup": null,
     "isGamePrefab": false,
     "_id": "4dIRIufoNBw5dbiVMKH6tE"
   },
